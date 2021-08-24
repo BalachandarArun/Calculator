@@ -1,0 +1,32 @@
+h2:hover
+{
+    text-shadow: 5px 2px 2px grey;
+    transition: 2s;
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+table
+{
+    background-color: grey;
+}
+td, th
+{
+    padding: 15px;
+}
+button
+{
+    width: 50%;
+    padding: 10px;
+}
+button:hover
+{
+    cursor: pointer;
+}
+body
+{
+    font-size: xx-large;
+    background-color: cornflowerblue;
+}
